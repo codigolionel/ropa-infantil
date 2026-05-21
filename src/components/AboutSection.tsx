@@ -6,7 +6,7 @@ import { ElegantDivider } from "@/components/ui/ElegantDivider";
 const highlights = [
   { icon: Heart, label: "Diseños Únicos", desc: "Cada prenda está pensada para la comodidad y el estilo." },
   { icon: Award, label: "Calidad Premium", desc: "Telas suaves y resistentes que acompañan su crecimiento." },
-  { icon: Sparkles, label: "Envíos a todo el país", desc: "Llegamos a la puerta de tu casa, estés donde estés." },
+  { icon: Sparkles, label: "Envíos", desc: "Llegamos a la puerta de tu casa, estés donde estés." },
 ];
 
 const AboutSection = () => {
