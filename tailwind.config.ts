@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ["Lato", "sans-serif"],
-        serif: ["Playfair Display", "serif"],
+        sans: ["Nunito", "sans-serif"],
+        heading: ["Quicksand", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -23,17 +23,19 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
-        cream: "hsl(var(--cream))",
-        rose: {
-          DEFAULT: "hsl(var(--rose))",
-          light: "hsl(var(--rose-light))",
+        arena: "hsl(var(--arena))",
+        calabaza: {
+          DEFAULT: "hsl(var(--calabaza))",
+          light: "hsl(var(--calabaza-light))",
         },
-        chocolate: {
-          DEFAULT: "hsl(var(--chocolate))",
-          light: "hsl(var(--chocolate-light))",
+        marino: {
+          DEFAULT: "hsl(var(--marino))",
+          light: "hsl(var(--marino-light))",
         },
-        celeste: "hsl(var(--celeste))",
-        gold: "hsl(var(--gold))",
+        melocoton: {
+          DEFAULT: "hsl(var(--melocoton))",
+          dark: "hsl(var(--melocoton-dark))",
+        },
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",

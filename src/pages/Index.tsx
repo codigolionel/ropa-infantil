@@ -1,28 +1,27 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
-import AboutSection from "@/components/AboutSection";
+import CategoriesSection from "@/components/CategoriesSection";
 import ProductSection from "@/components/ProductSection";
+import ProductsSection from "@/components/sections/ProductsSection";
 import PromoBanner from "@/components/PromoBanner";
-import FlavorsSection from "@/components/FlavorsSection";
-import GallerySection from "@/components/GallerySection";
-import SpecialProductSection from "@/components/SpecialProductSection";
-import VideoSection from "@/components/VideoSection";
-import ReservationForm from "@/components/ReservationForm";
+import AboutSection from "@/components/AboutSection";
+import ShippingSection from "@/components/ShippingSection";
 import Footer from "@/components/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 const Index = () => (
   <div className="min-h-screen">
     <Header />
     <Hero />
-    <AboutSection />
+    <CategoriesSection />
     <ProductSection />
+    <ProductsSection />
     <PromoBanner />
-    <FlavorsSection />
-    <GallerySection />
-    <SpecialProductSection />
-    <VideoSection />
-    <ReservationForm />
+    <AboutSection />
+    <ShippingSection />
     <Footer />
+    {/* Actualizar con el número real de WhatsApp */}
+    <WhatsAppButton number="5493421234567" />
   </div>
 );
 

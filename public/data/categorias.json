@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bebés",
+    "imagen": "/images/img-1.png",
+    "slug": "bebes"
+  },
+  {
+    "id": 2,
+    "nombre": "Nenas",
+    "imagen": "/images/img-2.png",
+    "slug": "nenas"
+  },
+  {
+    "id": 3,
+    "nombre": "Nenes",
+    "imagen": "/images/img-3.png",
+    "slug": "nenes"
+  },
+  {
+    "id": 4,
+    "nombre": "Accesorios",
+    "imagen": "/images/img-4.png",
+    "slug": "accesorios"
+  }
+]

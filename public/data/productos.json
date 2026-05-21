@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "Body Estampado Animalitos",
+    "precio": 8500,
+    "imagen": "/images/img-1.png",
+    "categoria": "Bebés",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Set Ranita + Gorrito Algodón",
+    "precio": 12900,
+    "imagen": "/images/img-2.png",
+    "categoria": "Bebés",
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Enterito Plush Invierno",
+    "precio": 15500,
+    "imagen": "/images/img-3.png",
+    "categoria": "Bebés",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "nombre": "Vestido Floral Primavera",
+    "precio": 13200,
+    "imagen": "/images/img-4.png",
+    "categoria": "Nenas",
+    "destacado": true
+  },
+  {
+    "id": 5,
+    "nombre": "Conjunto Remera + Calza Estampada",
+    "precio": 11800,
+    "imagen": "/images/img-5.png",
+    "categoria": "Nenas",
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Campera de Jean con Parches",
+    "precio": 18500,
+    "imagen": "/images/img-6.png",
+    "categoria": "Nenas",
+    "destacado": true
+  },
+  {
+    "id": 7,
+    "nombre": "Remera Dinosaurios Algodón",
+    "precio": 7900,
+    "imagen": "/images/img-7.png",
+    "categoria": "Nenes",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Conjunto Jogger + Buzo",
+    "precio": 16200,
+    "imagen": "/images/img-8.png",
+    "categoria": "Nenes",
+    "destacado": true
+  },
+  {
+    "id": 9,
+    "nombre": "Bermuda Cargo con Cinturón",
+    "precio": 10500,
+    "imagen": "/images/img-9.png",
+    "categoria": "Nenes",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Mochila Animalito Peluche",
+    "precio": 9800,
+    "imagen": "/images/img-10.png",
+    "categoria": "Accesorios",
+    "destacado": true
+  },
+  {
+    "id": 11,
+    "nombre": "Set de Vinchas y Hebillas",
+    "precio": 4500,
+    "imagen": "/images/img-11.png",
+    "categoria": "Accesorios",
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Gorro de Lana con Pompón",
+    "precio": 6200,
+    "imagen": "/images/img-1.png",
+    "categoria": "Accesorios",
+    "destacado": false
+  }
+]
